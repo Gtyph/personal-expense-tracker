@@ -60,6 +60,4 @@ def menu():
 
 menu()
 conn.close()
-git add .
-git commit -m "Add expense tracker script and README"
-git push origin main
+
